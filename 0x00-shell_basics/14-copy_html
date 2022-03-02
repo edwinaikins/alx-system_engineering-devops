@@ -1,1 +1,1 @@
-#!/bin/bash\ncp -rua *.html ../
+#!/bin/bash\ncp -nu *.html ..
