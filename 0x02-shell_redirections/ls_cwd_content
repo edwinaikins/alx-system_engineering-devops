@@ -1,0 +1,14 @@
+total 48
+drwxrwxr-x 2 eddie eddie 4096 E-Ɔ  8 04:34 .
+drwxrwxr-x 6 eddie eddie 4096 E-Ɔ  7 22:36 ..
+-rwxrw-r-- 1 eddie eddie   30 E-Ɔ  7 22:47 0-hello_world
+-rwxrw-r-- 1 eddie eddie   29 E-Ɔ  7 23:11 1-confused_smiley
+-rwxrw-r-- 1 eddie eddie   28 E-Ɔ  7 23:15 2-hellofile
+-rwxrw-r-- 1 eddie eddie   39 E-Ɔ  7 23:18 3-twofiles
+-rwxrw-r-- 1 eddie eddie   29 E-Ɔ  7 23:20 4-lastlines
+-rwxrw-r-- 1 eddie eddie   29 E-Ɔ  7 23:22 5-firstlines
+-rwxrw-r-- 1 eddie eddie   36 E-Ɔ  7 23:26 6-third_line
+-rwxrw-r-- 1 eddie eddie   76 E-Ɔ  8 04:10 7-file
+-rwxrw-r-- 1 eddie eddie   36 E-Ɔ  8 04:34 8-cwd_state
+-rw-rw-r-- 1 eddie eddie    0 E-Ɔ  8 04:34 ls_cwd_content
+-rw-rw-r-- 1 eddie eddie   19 E-Ɔ  7 22:40 README.md
